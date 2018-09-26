@@ -7,8 +7,8 @@ namespaces:
 # <namespace>/<module>
 - name: examples
   description: |
-    Cluster for example modules that are meant to demonstrate various concepts
-    and should not be used in a real deployment.
+    Example modules that are meant to demonstrate various concepts and should
+    not be used in a real deployment.
   modules:
 
   # This is an example of a module made for an image build.  All Cloudless
